@@ -1,0 +1,32 @@
+{
+  "name": "ccsyunserversso",
+  "version": "1.0.0",
+  "description": "sso-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaoli",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "deprecate": "^0.1.0",
+    "lodash": "^4.13.1",
+    "query-string": "^4.1.0",
+    "xml2js": "^0.4.16",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "session-memory-store": "^0.2.2",
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.12",
+    "ejs": "^2.4.2",
+    "es6-promise": "^3.2.1",
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3",
+    "mocha-lcov-reporter": "^1.2.0",
+    "rewire": "^2.5.2",
+    "uuid": "^2.0.2"
+  }
+}
